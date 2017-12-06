@@ -1,0 +1,17 @@
+SpType	NBeads	h*	z*	d*	L0*	Q0*	Gdot	
+2	100	0	4	1	10	0	0	
+emax	Nsamples	
+2	100	
+ndelts	
+1	
+dtseq	dtsne	nblock	ntot	tol	
+1	1	1	10000	0.001	
+
+
+
+
+
+
+
+
+
